@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/drilonhalili/contactmanager/static/js/main.57bb7678.chunk.js",
+    "main.js.map": "/drilonhalili/contactmanager/static/js/main.57bb7678.chunk.js.map",
+    "runtime-main.js": "/drilonhalili/contactmanager/static/js/runtime-main.7783a6a6.js",
+    "runtime-main.js.map": "/drilonhalili/contactmanager/static/js/runtime-main.7783a6a6.js.map",
+    "static/css/2.de424728.chunk.css": "/drilonhalili/contactmanager/static/css/2.de424728.chunk.css",
+    "static/js/2.c7e6bbdd.chunk.js": "/drilonhalili/contactmanager/static/js/2.c7e6bbdd.chunk.js",
+    "static/js/2.c7e6bbdd.chunk.js.map": "/drilonhalili/contactmanager/static/js/2.c7e6bbdd.chunk.js.map",
+    "index.html": "/drilonhalili/contactmanager/index.html",
+    "precache-manifest.70fe7087a1d0cccac74c9d8d1b81dd60.js": "/drilonhalili/contactmanager/precache-manifest.70fe7087a1d0cccac74c9d8d1b81dd60.js",
+    "service-worker.js": "/drilonhalili/contactmanager/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/drilonhalili/contactmanager/static/css/2.de424728.chunk.css.map",
+    "static/js/2.c7e6bbdd.chunk.js.LICENSE.txt": "/drilonhalili/contactmanager/static/js/2.c7e6bbdd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7783a6a6.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.c7e6bbdd.chunk.js",
+    "static/js/main.57bb7678.chunk.js"
+  ]
+}
