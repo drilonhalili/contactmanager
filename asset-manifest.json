@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/drilonhalili/contactmanager/static/css/main.36497136.chunk.css",
-    "main.js": "/drilonhalili/contactmanager/static/js/main.77e9e932.chunk.js",
-    "main.js.map": "/drilonhalili/contactmanager/static/js/main.77e9e932.chunk.js.map",
+    "main.js": "/drilonhalili/contactmanager/static/js/main.3d5646bc.chunk.js",
+    "main.js.map": "/drilonhalili/contactmanager/static/js/main.3d5646bc.chunk.js.map",
     "runtime-main.js": "/drilonhalili/contactmanager/static/js/runtime-main.7783a6a6.js",
     "runtime-main.js.map": "/drilonhalili/contactmanager/static/js/runtime-main.7783a6a6.js.map",
     "static/css/2.de424728.chunk.css": "/drilonhalili/contactmanager/static/css/2.de424728.chunk.css",
-    "static/js/2.c7e6bbdd.chunk.js": "/drilonhalili/contactmanager/static/js/2.c7e6bbdd.chunk.js",
-    "static/js/2.c7e6bbdd.chunk.js.map": "/drilonhalili/contactmanager/static/js/2.c7e6bbdd.chunk.js.map",
+    "static/js/2.cd0bc447.chunk.js": "/drilonhalili/contactmanager/static/js/2.cd0bc447.chunk.js",
+    "static/js/2.cd0bc447.chunk.js.map": "/drilonhalili/contactmanager/static/js/2.cd0bc447.chunk.js.map",
     "index.html": "/drilonhalili/contactmanager/index.html",
-    "precache-manifest.b013a0b0686a5bf01b521afbe15ff4e4.js": "/drilonhalili/contactmanager/precache-manifest.b013a0b0686a5bf01b521afbe15ff4e4.js",
+    "precache-manifest.3b9fe358bea105c45053f766e2353a55.js": "/drilonhalili/contactmanager/precache-manifest.3b9fe358bea105c45053f766e2353a55.js",
     "service-worker.js": "/drilonhalili/contactmanager/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/drilonhalili/contactmanager/static/css/2.de424728.chunk.css.map",
     "static/css/main.36497136.chunk.css.map": "/drilonhalili/contactmanager/static/css/main.36497136.chunk.css.map",
-    "static/js/2.c7e6bbdd.chunk.js.LICENSE.txt": "/drilonhalili/contactmanager/static/js/2.c7e6bbdd.chunk.js.LICENSE.txt"
+    "static/js/2.cd0bc447.chunk.js.LICENSE.txt": "/drilonhalili/contactmanager/static/js/2.cd0bc447.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7783a6a6.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.c7e6bbdd.chunk.js",
+    "static/js/2.cd0bc447.chunk.js",
     "static/css/main.36497136.chunk.css",
-    "static/js/main.77e9e932.chunk.js"
+    "static/js/main.3d5646bc.chunk.js"
   ]
 }

@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2768114c70cdbb5e3bc25812ebabd52a",
+    "revision": "06590430c55cb5860f82247ed74d873c",
     "url": "/drilonhalili/contactmanager/index.html"
   },
   {
-    "revision": "ca985b05f325ce666b1c",
+    "revision": "5346d58e45a961d44cd8",
     "url": "/drilonhalili/contactmanager/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "b37b63f666b55ccbfe83",
+    "revision": "f88c4b51116dbe3bb4e2",
     "url": "/drilonhalili/contactmanager/static/css/main.36497136.chunk.css"
   },
   {
-    "revision": "ca985b05f325ce666b1c",
-    "url": "/drilonhalili/contactmanager/static/js/2.c7e6bbdd.chunk.js"
+    "revision": "5346d58e45a961d44cd8",
+    "url": "/drilonhalili/contactmanager/static/js/2.cd0bc447.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/drilonhalili/contactmanager/static/js/2.c7e6bbdd.chunk.js.LICENSE.txt"
+    "url": "/drilonhalili/contactmanager/static/js/2.cd0bc447.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b37b63f666b55ccbfe83",
-    "url": "/drilonhalili/contactmanager/static/js/main.77e9e932.chunk.js"
+    "revision": "f88c4b51116dbe3bb4e2",
+    "url": "/drilonhalili/contactmanager/static/js/main.3d5646bc.chunk.js"
   },
   {
     "revision": "938ccb01df21930a4b74",
